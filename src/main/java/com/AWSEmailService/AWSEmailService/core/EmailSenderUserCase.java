@@ -1,4 +1,4 @@
-package com.EmailServiceUber.EmailServiceUber.core;
+package com.AWSEmailService.AWSEmailService.core;
 
 public interface EmailSenderUserCase {
 

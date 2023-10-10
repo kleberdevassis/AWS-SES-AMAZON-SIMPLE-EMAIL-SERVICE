@@ -1,4 +1,4 @@
-package com.EmailServiceUber.EmailServiceUber;
+package com.AWSEmailService.AWSEmailService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

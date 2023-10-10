@@ -1,4 +1,4 @@
-package com.EmailServiceUber.EmailServiceUber.infra.ses;
+package com.AWSEmailService.AWSEmailService.infra.ses;
 
 import com.amazonaws.services.simpleemail.AmazonSimpleEmailService;
 import com.amazonaws.services.simpleemail.AmazonSimpleEmailServiceClientBuilder;

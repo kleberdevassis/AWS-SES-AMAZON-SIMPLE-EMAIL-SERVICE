@@ -1,8 +1,8 @@
-package com.EmailServiceUber.EmailServiceUber.controllers;
+package com.AWSEmailService.AWSEmailService.controllers;
 
-import com.EmailServiceUber.EmailServiceUber.application.EmailSenderService;
-import com.EmailServiceUber.EmailServiceUber.core.EmailRequest;
-import com.EmailServiceUber.EmailServiceUber.core.exceptions.EmailServiceException;
+import com.AWSEmailService.AWSEmailService.core.exceptions.EmailServiceException;
+import com.AWSEmailService.AWSEmailService.application.EmailSenderService;
+import com.AWSEmailService.AWSEmailService.core.EmailRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

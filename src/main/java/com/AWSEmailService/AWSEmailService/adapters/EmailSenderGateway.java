@@ -1,4 +1,4 @@
-package com.EmailServiceUber.EmailServiceUber.adapters;
+package com.AWSEmailService.AWSEmailService.adapters;
 
 public interface EmailSenderGateway {
 

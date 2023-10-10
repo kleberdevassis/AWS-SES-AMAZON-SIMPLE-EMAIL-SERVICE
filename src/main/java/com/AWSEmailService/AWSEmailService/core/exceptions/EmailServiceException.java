@@ -1,4 +1,4 @@
-package com.EmailServiceUber.EmailServiceUber.core.exceptions;
+package com.AWSEmailService.AWSEmailService.core.exceptions;
 
 public class EmailServiceException extends RuntimeException{
 

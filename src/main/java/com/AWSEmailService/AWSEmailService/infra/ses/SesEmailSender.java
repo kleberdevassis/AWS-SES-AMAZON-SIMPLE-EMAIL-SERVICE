@@ -1,7 +1,7 @@
-package com.EmailServiceUber.EmailServiceUber.infra.ses;
+package com.AWSEmailService.AWSEmailService.infra.ses;
 
-import com.EmailServiceUber.EmailServiceUber.adapters.EmailSenderGateway;
-import com.EmailServiceUber.EmailServiceUber.core.exceptions.EmailServiceException;
+import com.AWSEmailService.AWSEmailService.core.exceptions.EmailServiceException;
+import com.AWSEmailService.AWSEmailService.adapters.EmailSenderGateway;
 import com.amazonaws.services.simpleemail.AmazonSimpleEmailService;
 import com.amazonaws.services.simpleemail.model.*;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,7 +1,7 @@
-package com.EmailServiceUber.EmailServiceUber.application;
+package com.AWSEmailService.AWSEmailService.application;
 
-import com.EmailServiceUber.EmailServiceUber.adapters.EmailSenderGateway;
-import com.EmailServiceUber.EmailServiceUber.core.EmailSenderUserCase;
+import com.AWSEmailService.AWSEmailService.core.EmailSenderUserCase;
+import com.AWSEmailService.AWSEmailService.adapters.EmailSenderGateway;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

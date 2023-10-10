@@ -1,4 +1,4 @@
-package com.EmailServiceUber.EmailServiceUber;
+package com.AWSEmailService.AWSEmailService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
